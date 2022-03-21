@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1641254868 source:d:\c-projects\quick-search\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1642352394 source:d:\projects\c-projects\quick-sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

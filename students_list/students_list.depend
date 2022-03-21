@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638713955 source:d:\c-projects\students_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1638469897 d:\c-projects\students_list\functions.h
+

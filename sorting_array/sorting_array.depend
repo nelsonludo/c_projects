@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637677690 source:d:\c-projects\sorting_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637679451 source:d:\projects\c-projects\sorting_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
